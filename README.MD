@@ -12,7 +12,7 @@ Hey, I'm Uncared – a tech enthusiast, Advanced PC Tweaker, Software Engineer, 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ae,ai,atom,au,bash,blender,c,cpp,cs,css,csharp,discord,docker,dotnet,figma,git,github,go,html,instagram,java,js,linux,lua,mongodb,mysql,nodejs,powershell,pr,python,raspberrypi,react,replit,ruby,rust,scala,sqlite,swift,typescript,visualstudio,vscode,twitter,xd" />
+    <img src="https://skillicons.dev/icons?i=ae,ai,atom,au,bash,blender,c,cpp,cs,css,discord,docker,dotnet,figma,git,github,go,html,instagram,java,js,linux,lua,mongodb,mysql,nodejs,powershell,pr,python,raspberrypi,react,replit,ruby,rust,scala,sqlite,swift,typescript,visualstudio,vscode,twitter,xd" />
   </a>
 </p>
 
