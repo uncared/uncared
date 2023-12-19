@@ -1,19 +1,20 @@
 <p align="center">
-  <h1>Hello there, I'm Uncared! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+  <h1>Hi there, I'm Uncared! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+</p>
 
 ## About Me 👨‍💻
 
-Hey, I'm Uncared – an Advanced PC Tweaker, Software Engineer, and Full Stack Developer based in The Bronx. Passionate about coding and always up for exploring new tech to craft innovative solutions. I'm here not just to write code but to collaborate and contribute. Whether it's seeking help or collaborating on repositories, count me in! 🚀
+Hey, I'm Uncared – a tech enthusiast, Advanced PC Tweaker, Software Engineer, and Full Stack Developer residing in The Bronx. I'm passionate about coding and always eager to explore new technologies to craft innovative solutions. My goal is not just to write code but to collaborate and contribute. Whether it's seeking help or collaborating on repositories, count me in! 🚀
 
 ![Profile views](https://komarev.com/ghpvc/?username=uncared&color=blueviolet)
 
-## Skills 🚀
+## 🚀 Skills
 
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,lua,nodejs,swift,cpp,cs,c,java,sqlite,mongodb,ruby,mysql,go,typescript,react,vscode,visualstudio,js,css,html,php,bash,rust,scala,dotnet,blender,atom,linux,ps,ae,pr,au,ai,xd" />
-    </a>
-  </p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ae,ai,atom,au,bash,blender,c,cpp,cs,css,csharp,discord,docker,dotnet,figma,git,github,go,html,instagram,java,js,linux,lua,mongodb,mysql,nodejs,powershell,pr,python,raspberrypi,react,replit,ruby,rust,scala,sqlite,swift,typescript,visualstudio,vscode,twitter,xd" />
+  </a>
+</p>
 
 ## My Stats 🔥
 
