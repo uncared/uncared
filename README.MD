@@ -1,14 +1,14 @@
 <p align="center">
-  <h1>Hi there, I'm Uncared! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+  <h1>Hey there, I'm Uncared! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 </p>
 
-## About Me 👨‍💻
+## About Me 🌟
 
-Hey, I'm Uncared – a tech enthusiast, Advanced PC Tweaker, Software Engineer, and Full Stack Developer residing in The Bronx. I'm passionate about coding and always eager to explore new technologies to craft innovative solutions. My goal is not just to write code but to collaborate and contribute. Whether it's seeking help or collaborating on repositories, count me in! 🚀
+Hey, I'm Uncared – a passionate Software Engineer and Full Stack Developer from The Bronx. I have a fervor for technology and a knack for crafting innovative solutions. Constantly exploring new technologies is my forte. My goal isn't merely coding; it's about collaboration and contribution. Count me in for seeking help or collaborating on repositories! 🚀
 
 ![Profile views](https://komarev.com/ghpvc/?username=uncared&color=blueviolet)
 
-## 🚀 Skills
+## 💼 Skills
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -16,9 +16,9 @@ Hey, I'm Uncared – a tech enthusiast, Advanced PC Tweaker, Software Engineer, 
   </a>
 </p>
 
-## My Stats 🔥
+## 📊 My Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uncared&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="165" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=uncared&locale=en&hide_title=false&layout=compact&langs_count=5&theme=dark&hide_border=true" height="165" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=uncared&show_icons=true&count_private=true&theme=dark&hide_border=true" height="175" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uncared&layout=compact&langs_count=5&theme=dark&hide_border=true" height="175" alt="languages graph"  />
 </div>
